@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "template-method-design-pattern/1.0.0": {
+        "runtime": {
+          "template-method-design-pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "template-method-design-pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

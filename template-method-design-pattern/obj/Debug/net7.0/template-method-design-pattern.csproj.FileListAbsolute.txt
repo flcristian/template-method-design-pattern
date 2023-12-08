@@ -1,0 +1,14 @@
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\bin\Debug\net7.0\template-method-design-pattern.exe
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\bin\Debug\net7.0\template-method-design-pattern.deps.json
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\bin\Debug\net7.0\template-method-design-pattern.runtimeconfig.json
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\bin\Debug\net7.0\template-method-design-pattern.dll
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\bin\Debug\net7.0\template-method-design-pattern.pdb
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\obj\Debug\net7.0\template-method-design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\obj\Debug\net7.0\template-method-design-pattern.AssemblyInfoInputs.cache
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\obj\Debug\net7.0\template-method-design-pattern.AssemblyInfo.cs
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\obj\Debug\net7.0\template-method-design-pattern.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\obj\Debug\net7.0\template-method-design-pattern.dll
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\obj\Debug\net7.0\refint\template-method-design-pattern.dll
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\obj\Debug\net7.0\template-method-design-pattern.pdb
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\obj\Debug\net7.0\template-method-design-pattern.genruntimeconfig.cache
+D:\mycode\csharp\design-patterns\template-method-design-pattern\template-method-design-pattern\obj\Debug\net7.0\ref\template-method-design-pattern.dll
